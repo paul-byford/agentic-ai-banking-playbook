@@ -27,9 +27,9 @@ This project is designed to:
 ⚠ Demonstrators use synthetic or public data only  
 ⚠ All code is provided for learning and applied exploration purposes  
 
-## Agentic AI Banking Playbook — Demonstrators
+## Agentic AI Banking Demonstrators
 
-This project explores how **Agentic AI** can be applied to practical, real-world challenges in banking. Demonstrators are grouped by major use-case areas.
+**Agentic AI** Demonstrators are grouped by major use-case areas.
 
 > _The list of Agentic AI Demonstrators will evolve as the project progresses — suggestions welcomed._
 
