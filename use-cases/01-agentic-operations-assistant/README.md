@@ -12,10 +12,10 @@ Operational processes in banking often rely on manual task management, leading t
 
 ## Planned Features and Next Steps
 
-- [ ] Finalise initial design for basic task routing logic  
-- [ ] Build minimal working prototype using synthetic task dataset  
-- [ ] Implement example of human escalation logic  
-- [ ] Test and refine functionality based on early findings  
+- [ ] 1. Initial design for basic task routing logic  
+- [ ] 2. Build minimal working prototype using synthetic task dataset  
+- [ ] 3. Implement example of human escalation logic  
+- [ ] 4. Test and refine functionality based on early findings  
 
 ## Suggestions welcomed
 

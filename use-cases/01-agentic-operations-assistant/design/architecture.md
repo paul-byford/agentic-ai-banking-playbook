@@ -22,6 +22,7 @@ architecture-beta
     service db(database)[Database] in api
     server:R <--> L:db
     
-    group user(cloud)[User]
+    group user(internet)[User]
     service userClient(server)[Device] in user
     userClient:R <--> L:server
+```
