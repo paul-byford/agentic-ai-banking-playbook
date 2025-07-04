@@ -57,8 +57,11 @@ Explore the full list of proposed and in-progress [demonstrators here](demonstra
 All demo code is released under the [Apache 2.0 licence](LICENSE).  
 This project is for educational and applied exploration purposes only.
 
+## Contributing
+
+Interested in contributing ideas, code, or feedback? Please see the [Contributing Guidelines](CONTRIBUTING.md) for how to get involved and help improve this project.
+
 ## About the author
 
 [Paul Byford](https://www.linkedin.com/in/paulbyford)  
-20 years' experience in banking change and technology.  
-Currently exploring how Agentic AI can be applied to real-world opportunities in financial services.
+20 years' experience in banking change and technology - Currently exploring how Agentic AI can be applied to real-world opportunities in financial services.

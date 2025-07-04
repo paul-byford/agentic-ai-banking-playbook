@@ -7,22 +7,22 @@ This project is an applied, exploratory initiative to demonstrate how Agentic AI
 ## How to Contribute
 
 - **Ideas & Suggestions:**
-  - Open an issue or discussion for new use-cases, improvements, or feedback.
-  - Suggest new demonstrators or enhancements to existing ones.
+  - Open an issue or discussion for new use-cases, improvements, or feedback
+  - Suggest new demonstrators or enhancements to existing ones
 
-- **Code Contributions:**
-  - Fork the repository and create a new branch for your changes.
-  - Ensure your code is clear, well-documented, and follows best practices.
-  - Add or update documentation as needed.
-  - Submit a pull request with a clear description of your changes.
+- **Code and Content Contributions:**
+  - Fork the repository and create a new branch for your changes
+  - Ensure your code is clear, well-documented, and follows best practices
+  - Add or update documentation as needed
+  - Submit a pull request with a clear description of your changes
 
 - **Data & Ethics:**
-  - Only use synthetic or public data in your contributions.
+  - Only use synthetic or public data in your contributions
   - Do not include any confidential, proprietary, or personal data.
-  - Respect ethical AI development principles.
+  - Respect ethical AI development principles
 
 - **Reporting Issues:**
-  - Use the issue tracker to report bugs, request features, or ask questions.
+  - Use the issue tracker to report bugs, request features, or ask questions
 
 ## Code of Conduct
 
@@ -30,7 +30,7 @@ All contributors are expected to follow the [Contributor Covenant Code of Conduc
 
 ## Design & Documentation Standards
 
-All architectural diagrams for this project should be created using [Mermaid architecture-beta diagrams](https://mermaid.js.org/syntax/architecture-beta.html).
+All architectural diagrams for this project should be created using [Mermaid architecture-beta diagrams](https://mermaid.js.org/syntax/architecture.html).
 
 - Diagrams should be embedded directly in relevant `.md` files  
 - Keep diagrams simple, modular, and aligned to the evolving design  
