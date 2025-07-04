@@ -1,0 +1,66 @@
+# Basic .gitignore for AI/ML/DS projects
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+venv/
+env/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# Data, models, and outputs
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.pkl
+*.joblib
+*.npz
+*.npy
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.db
+*.sqlite
+*.log
+*.out
+*.cache
+*.dat
+*.jsonl
+
+# Secret files
+.env
+.env.*
+*.secret
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other
+*.bak
+*.swp
+*.tmp
+
+# Ignore experiment outputs
+outputs/
+results/
+logs/
+checkpoints/
+artifacts/
