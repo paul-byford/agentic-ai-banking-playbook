@@ -42,14 +42,14 @@ architecture-beta
     group api(cloud)[API]
     service server(server)[Server] in api
     
-    group user(bot)[User]
+    group user(internet)[User]
     service userClient(server)[Device] in user
     
     userClient:R <--> L:server
 ```
 ### Mermaid Icons
 
-For a full list of available icons you can use in Mermaid architecture diagrams, see the [Mermaid icons documentation](https://mermaid.js.org/syntax/architecture.html#icons).
+Github supports auto-rendering these basic mermaid icons `cloud`, `database`, `disk`, `internet` and `serve`.
 
 ---
 
