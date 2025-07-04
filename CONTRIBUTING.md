@@ -49,7 +49,7 @@ architecture-beta
 ```
 ### Mermaid Icons
 
-Github supports auto-rendering these basic mermaid icons `cloud`, `database`, `disk`, `internet` and `serve`.
+Github supports auto-rendering these basic mermaid icons `cloud`, `database`, `disk`, `internet` and `server`.
 
 ---
 

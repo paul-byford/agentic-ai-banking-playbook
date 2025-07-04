@@ -12,7 +12,11 @@ Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/paulbyfor
 
 ## Why this project exists
 
-Banks are rapidly evolving their use of AI, with a growing focus on **Agentic AI** — intelligent systems that can act autonomously to support customers, colleagues, and operations.
+The impact of AI will be profound. A general purpose technology era that is reshaping how people live and work, like every general purpose technology era shift did before it. 
+
+**The rise of Agentic AI is reshaping financial services.**
+
+Banks are rapidly evolving their use of AI, with a growing focus on **Agentic AI** – intelligent systems that can autonomously plan, make decisions, and execute tasks in complex environments, simulating human behaviour to deliver better outcomes for customers, staff, and operations. In banking, their impact will be significant, but always shaped by the need for human supervision, explainability, and regulatory control.
 
 This project is designed to:
 
@@ -22,44 +26,31 @@ This project is designed to:
 
 > _Initial focus: UK banking challenges and priorities._
 
-## What this project is **not**
+## Market Reference: Agentic AI in Financial Services
 
-⚠ Demonstrators use synthetic or public data only  
-⚠ All code is provided for learning and applied exploration purposes  
+The demonstrator roadmap is informed by leading industry perspectives, including the [Citi GPS Agentic AI Report (2025)](https://www.citivelocity.com/citigps/agentic-ai/).
 
-## Agentic AI Banking Demonstrators
+The report highlights not just where Agentic AI will be applied, but how it will fundamentally reshape the fabric of financial services – automating decision-making, creating autonomous customer experiences, and shifting the nature of work and customer activity from manual execution to agent-orchestrated outcomes.
 
-**Agentic AI** Demonstrators are grouped by major use-case areas.
+It outlines high-priority Agentic AI opportunities across key areas of financial services, including:
 
-> _The list of Agentic AI Demonstrators will evolve as the project progresses — suggestions welcomed._
+- **Onboarding & KYC** – frictionless, AI-driven customer journeys  
+- **Fraud Prevention & Risk Detection** – autonomous defence at machine speed  
+- **Compliance Monitoring** – real-time regulatory awareness and enforcement  
+- **Customer Experience Personalisation** – hyper-tailored products and services  
+- **Wealth Management & Financial Advice** – AI co-pilots for personalised financial decision-making  
+- **Payments & Treasury Optimisation** – intelligent, automated money movement  
+- **Agentic Contracts & Automation** – self-executing agreements and autonomous processes  
 
-### Agentic Operations
+But beyond technical use-cases, the report makes clear: Agentic AI signals a structural shift in how financial services firms operate, where autonomous agents increasingly perform tasks, make recommendations, and interact on behalf of humans – transforming both efficiency and the experience of customers and employees alike.
 
-| Use‑Case                         | Description                                                                 | Status       |
-|----------------------------------|-----------------------------------------------------------------------------|--------------|
-| Agentic Operations Assistant     | Autonomous AI for routing, triaging, and escalating operational tasks       | In progress  |
-| Smart Document Decisioning       | AI-powered decision support in document flows to reduce manual work        | Future       |
+A detailed, sector-by-sector breakdown of these Agentic AI opportunities is available [here](resources/gps-agentic-ai-reference.md).
 
-### Agentic Customer Innovation
+## Demonstrators: Applied Agentic AI in Action
 
-| Use‑Case                         | Description                                                                 | Status       |
-|----------------------------------|-----------------------------------------------------------------------------|--------------|
-| Personalized Financial Recommendations | AI-generated deep insights tailored to customer financial behavior          | Future       |
-| Intelligent Life Event Detection | AI that detects major life events (e.g. home purchase) to trigger relevant engagement | Future       |
+The best way to understand the potential of Agentic AI is to see it applied to real-world challenges.
 
-### Agentic Risk, Compliance & Explainability
-
-| Use‑Case                         | Description                                                                 | Status       |
-|----------------------------------|-----------------------------------------------------------------------------|--------------|
-| Explainability Companion         | Interactive interface that helps users understand AI decisions              | Future       |
-| Agentic KYC & Risk Refresh       | Autonomous agent monitoring KYC and fraud signals in real-time             | Future       |
-
-## Future Exploration Areas
-
-Potential future demonstrators may include:
-
-- **Agentic Employee & Leadership Assistants** (e.g., AI Compliance Assistant, AI Scenario Explorer for Leadership)  
-- **Other Applied, Real-World Agentic AI Banking Use-Cases** (Suggestions welcomed)  
+Explore the full list of proposed and in-progress [demonstrators here](demonstrators.md) and see how this project brings the concepts of Agentic AI to life in a practical, transparent way.
 
 ## Licence
 
@@ -69,5 +60,5 @@ This project is for educational and applied exploration purposes only.
 ## About the author
 
 [Paul Byford](https://www.linkedin.com/in/paulbyford)  
-20 years' experience in banking change and technology.
+20 years' experience in banking change and technology.  
 Currently exploring how Agentic AI can be applied to real-world opportunities in financial services.

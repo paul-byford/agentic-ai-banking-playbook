@@ -13,16 +13,19 @@ The Agentic Operations Assistant is intended to autonomously handle basic operat
 The design prioritises modularity and future integration with tools such as Vertex AI or FinLLM.
 
 ## High-Level Architecture
-
 ```mermaid
 architecture-beta
-    group api(cloud)[API]
+    group infra(cloud)[Infrastructure]
+    service taskData(database)[Synthetic Task Dataset] in infra
+    service llm(server)[LLM Integration Future] in infra
 
-    service server(server)[server] in api
-    service db(database)[Database] in api
-    server:R <--> L:db
-    
-    group user(internet)[User]
-    service userClient(server)[Device] in user
-    userClient:R <--> L:server
+    group logic(internet)[Agentic Logic Layer]
+    service operationsAssistant(server)[Operations Assistant Agent] in logic
+
+    group output(disk)[Output and Escalation]
+    service escalationHandler(server)[Escalation Handler] in output
+
+    operationsAssistant:R -- L:llm
+
+
 ```
