@@ -3,7 +3,7 @@
 
 Explore working demonstrators that show how **Agentic AI** can be applied to real-world banking challenges, with practical examples and applied technical insights.
 
-Each of the project Agentic AI demonstrator focuses on a specific, practical use-case. The aim is to build applied technical skills, test concepts, and provide tangible examples of Agentic AI in action – all while using synthetic or public data and respecting the constraints of responsible AI development in financial services.
+Each Agentic AI demonstrator in this project focuses on a specific, practical use-case. The aim is to build applied technical skills, test concepts, and provide tangible examples of Agentic AI in action – all while using synthetic or public data and respecting the constraints of responsible AI development in financial services.
 
 ## Demonstrator List
 
