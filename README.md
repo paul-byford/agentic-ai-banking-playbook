@@ -28,7 +28,7 @@ This project is designed to:
 
 ## Market Reference: Agentic AI in Financial Services
 
-The demonstrator roadmap is informed by leading industry perspectives, including the [Citi GPS Agentic AI Report (2025)](https://www.citivelocity.com/citigps/agentic-ai/).
+The demonstrator roadmap is informed by leading industry perspectives, including the [Citi GPS Agentic AI Report (2025)](resources/citi-gps-report-agentic.pdf).
 
 The report highlights not just where Agentic AI will be applied, but how it will fundamentally reshape the fabric of financial services – automating decision-making, creating autonomous customer experiences, and shifting the nature of work and customer activity from manual execution to agent-orchestrated outcomes.
 
